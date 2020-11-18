@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20"
+   height="20"
+   viewBox="0 0 5.2916665 5.2916668"
+   version="1.1"
+   id="svg50"
+   inkscape:export-filename="/home/jaguilar992/Disco/Dropbox02/Projects/music/img/icon-bw.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="music.svg">
+  <defs
+     id="defs44" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.541667"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1318"
+     inkscape:window-height="704"
+     inkscape:window-x="48"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata47">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-291.70832)">
+    <path
+       style="fill:#996300;fill-opacity:1;stroke:none;stroke-width:0.04765459;stroke-opacity:1"
+       d="m 3.1235861,292.48402 c -5.7996341,4.56052 3.3868563,6.11479 0.3911602,1.2339 -0.035106,0.18994 -0.02616,0.39855 -0.2426914,0.51171 -0.5596192,-0.52755 -0.2179424,-1.40394 -0.1484688,-1.74561 z M 2.34366,294.6188 c 0.1233925,-0.005 1.0343548,0.52274 1.034493,0.60452 1.44e-4,0.0845 -0.9747796,0.64443 -1.0480793,0.60237 -0.073301,-0.0419 -0.068939,-1.16223 0.00414,-1.20463 0.00233,-0.002 0.00546,-0.003 0.00943,-0.003 z"
+       id="rect815"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="206.55128"
+       x="-20.138271"
+       height="9.7687817"
+       width="8.3291712"
+       id="rect19"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41521376;stroke-opacity:1" />
+  </g>
+</svg>

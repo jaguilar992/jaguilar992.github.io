@@ -1,0 +1,108 @@
+{
+  "configVersion": 1,
+  "timestamp": 1605726002452,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.a9d601c5cbed38060d07.js",
+        "/manifest.webmanifest",
+        "/polyfills.a4021de53358bb0fec14.js",
+        "/runtime.e227d1a0e31cbccbf8ec.js",
+        "/styles.b4551637b08f48148a4b.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/filter.png",
+        "/assets/fonts/proxima-nova-soft.otf",
+        "/assets/icon.png",
+        "/assets/icon2.png.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/login.jpg",
+        "/assets/mark_good.png",
+        "/assets/mark_x.png",
+        "/assets/music.svg",
+        "/filter.b701ce76d71569988550.png",
+        "/login.46bab7d666e9a7eb01fd.jpg",
+        "/mark_good.7e4f2fab82553fb41fe3.png",
+        "/mark_x.90208a7bbe6f4fa9ec39.png",
+        "/music.97fde94445d713295e28.svg",
+        "/proxima-nova-soft.8c9feb9207ccdc019b3c.otf"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/filter.png": "5b60a1c3b89ebc33475e1e0e11a07e961973bea9",
+    "/assets/fonts/proxima-nova-soft.otf": "8ec828f81e8008d022e35828a877bfd51ff5883e",
+    "/assets/icon.png": "6b35ca96b0628b3ec94591e1f8fadd593461cb8a",
+    "/assets/icon2.png.svg": "ddc3f398ab894607ee34f3664b6af60ee8b82089",
+    "/assets/icons/icon-128x128.png": "ac539b22d9f8e6cc5dcfc38389246829010f4e8f",
+    "/assets/icons/icon-144x144.png": "d9311f8bfcb8d583b176a4f77e7fa451eb99e056",
+    "/assets/icons/icon-152x152.png": "12c59856d45e4168688ddfeeaa756805716479fe",
+    "/assets/icons/icon-192x192.png": "1e653da0ce0659be5f30a196ec3751ebe40ea380",
+    "/assets/icons/icon-384x384.png": "c1ec626c1dd0f919feed1441abf51835147dcef1",
+    "/assets/icons/icon-512x512.png": "757486f03712bb9459a8fe9c22a48e7029808ac7",
+    "/assets/icons/icon-72x72.png": "e0039634d9e3b22b2cdd71cf47cc5c9b382fa0ac",
+    "/assets/icons/icon-96x96.png": "f860dccbd640c439e31e663d5b144ceae6d08483",
+    "/assets/login.jpg": "c1f9725d8f040fef2aaf3d243d4c213b8bae71d6",
+    "/assets/mark_good.png": "6a3f49739f3dd09e113e763612a1343aad77a8ad",
+    "/assets/mark_x.png": "bb3258d587a698159060cefcbd96b4377a2f16d6",
+    "/assets/music.svg": "55467414154c33e435028e1a00e3751951b6840d",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/filter.b701ce76d71569988550.png": "5b60a1c3b89ebc33475e1e0e11a07e961973bea9",
+    "/index.html": "d4f3b99e594b5749f3d53d524fa68b2109e2bb6b",
+    "/login.46bab7d666e9a7eb01fd.jpg": "c1f9725d8f040fef2aaf3d243d4c213b8bae71d6",
+    "/main.a9d601c5cbed38060d07.js": "da636ac03ffc71f0adea37c27b2f863577403775",
+    "/manifest.webmanifest": "9a088b7c4339228d1082e666ce105dc889bc180c",
+    "/mark_good.7e4f2fab82553fb41fe3.png": "6a3f49739f3dd09e113e763612a1343aad77a8ad",
+    "/mark_x.90208a7bbe6f4fa9ec39.png": "bb3258d587a698159060cefcbd96b4377a2f16d6",
+    "/music.97fde94445d713295e28.svg": "55467414154c33e435028e1a00e3751951b6840d",
+    "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "/proxima-nova-soft.8c9feb9207ccdc019b3c.otf": "8ec828f81e8008d022e35828a877bfd51ff5883e",
+    "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.b4551637b08f48148a4b.css": "cc3ca022d7be564cbef9484172b568a7d324dce4"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
